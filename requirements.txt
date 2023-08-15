@@ -1,0 +1,10 @@
+fastapi==0.98.0
+uvicorn==0.22.0
+gunicorn==20.1.0
+boto3==1.26.165
+numpy==1.24.3
+opencv-python==4.7.0.72
+tqdm==4.65.0
+requests==2.31.0
+mediapipe==0.10.1
+python-multipart==0.0.6
